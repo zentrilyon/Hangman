@@ -1,0 +1,1 @@
+c:\users\berkan\documents\visual studio 2013\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
